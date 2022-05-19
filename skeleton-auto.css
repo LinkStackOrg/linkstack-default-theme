@@ -240,8 +240,10 @@
 /* Some fonts shift the credit footer icon around 
 /* You can uncomment this to hide the icon and only display the text
 .credit-icon {
-  display: none;
-}
+  display: none; }
+.credit-footer {
+  position: relative;
+  right: 15px; }
 */
 
 /* Switches text color for credit footer for dark/light mode */
