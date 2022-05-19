@@ -230,12 +230,21 @@
   
 /* Credit footer
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
+/* Styling for credit footer text */
 .credit-txt {
   font-weight: 700;
   font-size: 15px;
   text-decoration: none;
 }
 
+/* Some fonts shift the credit footer icon around 
+/* You can uncomment this to hide the icon and only display the text
+.credit-icon {
+  display: none;
+}
+*/
+
+/* Switches text color for credit footer for dark/light mode */
 @media (prefers-color-scheme: dark) {
   .credit-txt-clr{
       color: #FFF !important;
