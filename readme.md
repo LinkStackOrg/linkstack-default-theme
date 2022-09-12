@@ -7,6 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: YourGitHubName
 *	Theme Author URI: https://github.com/YourGitHubName
 *	Theme License: GPLv3
+*	Source code: https://github.com/YourGitHubName/ThemeName
 
 
 ### Used assets:
