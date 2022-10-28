@@ -23,7 +23,7 @@ return [
     // You can use this option to use the default button styling. For example reskins of the Default Theme.
     // This can be useful if you do not want to update your brand styles every time a new button is added.
     // If true the file "brands.css" wont be used anymore and can be removed.
-    'use_default_buttons' => 'true',
+    'use_default_buttons' => 'false',
 
     /*
     |--------------------------------------------------------------------------
