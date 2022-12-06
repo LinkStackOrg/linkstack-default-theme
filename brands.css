@@ -3,6 +3,7 @@
 ––––––––––––––––––––––––––––––––––––––––––––––––––
 
 - Rounded user avatars
+- Social icons
 - Buttons
 - Brand Styles
 
@@ -15,6 +16,18 @@
 /* Disable this if you don't want rounded avatars for users */
 .rounded-avatar {
   border-radius: 50%;
+}
+
+
+/* Social icon
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+.social-icon {
+  font-size: 32px;
+  padding: 10px;
+}
+.social-icon-div {
+  padding-bottom: 30px;
 }
 
 
