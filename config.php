@@ -24,6 +24,9 @@ return [
     // This can be useful if you do not want to update your brand styles every time a new button is added.
     // If true the file "brands.css" wont be used anymore and can be removed.
     'use_default_buttons' => 'false',
+    
+    // With this option, you can disallow custom background images set by users.
+    'allow_custom_background' => 'true',
 
     /*
     |--------------------------------------------------------------------------
