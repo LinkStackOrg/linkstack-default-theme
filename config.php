@@ -28,6 +28,8 @@ return [
     // With this option, you can disallow custom background images set by users.
     'allow_custom_background' => 'true',
 
+    'enable_dynamic_contrast' => 'true',
+
     /*
     |--------------------------------------------------------------------------
     | Custom Code
